@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="title">your title</string>
+    <string name="data_entry">describe your thoughts and feelings</string>
+    <string name="btn_name">Save</string>
+    <string name="update_button">Update</string>
+    <string name="activity_name">Add New Entry</string>
+    <string name="activity2_name">Update Entry</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="login_button">Login</string>
+    <string name="login_google">Sign in with Google</string>
+    <string name="mail_address">Email</string>
+    <string name="a_name">My Journal</string>
+</resources>
