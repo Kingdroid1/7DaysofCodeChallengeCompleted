@@ -16,7 +16,7 @@ Android Phone with API version 22 (minimum SDK),<br>
 Ensure your internet is up and running
 ## Built With
 Android Studio IDE 3.1.3<br>
-[ implementation 'de.hdodenhof:circleimageview:2.2.0']
+[download: https://github.com/hdodenhof/CircleImageView]
 ## Authors
 King Nicholas 
 ## License
